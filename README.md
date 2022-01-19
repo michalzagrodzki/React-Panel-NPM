@@ -7,7 +7,7 @@ Install using `yarn add react-test-panel`
 ### Usage 
 
 Inside React app, import Panel to component 
-`import { Panel } from 'jareact-test-panelwblia'`  
+`import { Panel } from 'react-test-panel'`  
 
 #### Panel props
 
