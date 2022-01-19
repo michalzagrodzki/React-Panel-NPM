@@ -9,7 +9,7 @@
   "files": [ "dist", "README.md" ],
   "repository": {
       "type": "git",
-      "url": "git+https://github.com/michalzagrodzki/React-Panel-NPM.git"
+      "url": "git://github.com/michalzagrodzki/React-Panel-NPM.git"
   },
   "dependencies": {
     "@babel/polyfill": "^7.12.1",
