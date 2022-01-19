@@ -1,7 +1,16 @@
 {
-  "name": "react-test-panel-npm",
+  "name": "react-test-panel",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "author": "michal zagrodzki",
+  "keywords": ["react", "components", "ui"],
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "files": [ "dist", "README.md" ],
+  "repository": {
+      "type": "git",
+      "url": "git+https://github.com/michalzagrodzki/React-Panel-NPM.git"
+  },
   "dependencies": {
     "@babel/polyfill": "^7.12.1",
     "@testing-library/jest-dom": "^5.16.1",
